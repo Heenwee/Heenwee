@@ -2,8 +2,8 @@
 
 He/Him
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?Heenwee=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?Heenwee=jasongaylord&langs_count=5&theme=tokyonight)]()
+![](https://raw.githubusercontent.com/Heenwee/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Heenwee/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 <!--
 **Heenwee/Heenwee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
